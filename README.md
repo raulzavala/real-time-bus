@@ -31,7 +31,7 @@ Status
 
 ## :dart: About ##
 
-Real Time Tracker Project. Trying to use JS, HTML, CSS and MAPBOX API.
+Real Time Tracker Project. 
 
 This project uses JavaScript with Mapbox API as a tool to view real time map data tracking the bus route from MIT to Harvard.
 
@@ -49,6 +49,13 @@ The following tools were used in this project:
 - [CSS]
 - [MAPBOX]
 
+## How to run it ##
+- Clone the repository into your local environment
+- Navigate to https://account.mapbox.com/ and create an account
+- Copy the Default token or generate your own
+- Copy it to the mapanimation.js file
+- Open the index.html file
+	
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
