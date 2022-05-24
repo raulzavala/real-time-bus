@@ -1,13 +1,13 @@
 <h1 align="center">Real Time Bus Tracker</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gibranalcazar/real-time-bus-tracker?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/raulzavala/real-time-bus?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gibranalcazar/real-time-bus-tracker?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/raulzavala/real-time-bus?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gibranalcazar/real-time-bus-tracker?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/raulzavala/real-time-bus?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/gibranalcazar/real-time-bus-tracker?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/raulzavala/real-time-bus?color=56BEB8">
 </p>
 
 Status
@@ -32,6 +32,8 @@ Status
 ## :dart: About ##
 
 Real Time Tracker Project. Trying to use JS, HTML, CSS and MAPBOX API.
+
+This project uses JavaScript with Mapbox API as a tool to view real time map data tracking the bus route from MIT to Harvard.
 
 ## :sparkles: Try this web app! ##
 
